@@ -5,5 +5,5 @@ Contents:
 - [General](content/general.md)
 - [Iterating a Tag](content/iterate-tag.md)
 - [Making a Block](content/making-a-block.md)
-- [Esoteric Advanced Crap](contet/esoteric.md)
+- [Esoteric Advanced Crap](content/esoteric.md)
 
