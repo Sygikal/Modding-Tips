@@ -11,6 +11,9 @@
 # Events
 - [Fabric event index](https://wiki.fabricmc.net/tutorial:event_index)
 
+# Mappings
+- [Linkie](https://linkie.shedaniel.dev/mappings) is an excellent tool for translating mappings
+
 # Mixins
 Good resources for mixins
 - [Mixin Extras wiki](https://github.com/LlamaLad7/MixinExtras/wiki)
